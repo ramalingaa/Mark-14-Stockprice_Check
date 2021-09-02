@@ -1,0 +1,57 @@
+body{
+    background-image:linear-gradient(to right,#d66d75, #e29587);
+    color:#fff;
+    margin-top: 5em;
+}
+.label-align{
+    display: block;
+    margin-top: 1em;
+    font-size: 1.5em;
+}
+.stock-align{
+    margin-top:1em;
+    width: 270px;
+    height:25px;
+    border-radius: 3px;
+    border-color: none transparent;
+    text-align: center;
+
+}
+
+.container-align{
+    text-align: center;
+}
+#btn-Click{
+    margin-top:2em;
+    width: 120px;
+    height:32px;
+    background-color: #d66d75;
+    color: #fff;
+}
+#output-container{
+    margin-top:1.5em;
+    font-size: 1.5em;
+    font-weight: 800;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+/* #footer css */
+.icon{
+    font-size: 1.5em;
+    color:#fff;
+    margin: 20px;
+}
+.footer-align{
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+.footer-para{
+    word-spacing: 10px   ;
+}
